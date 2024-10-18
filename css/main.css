@@ -141,9 +141,49 @@ body {
     background-color: #8C5AA1;
 }
 
+.subtitle-6 {
+    color: white;
+    transform: translate(5%, 0%);
+}
 
+.pay-1 {
+    width: 220px;
+    height: 45px;
+    transform: translate(15%, 10%);
+    font-weight: bold;
+    color: white;
+    background-color: #583167;
+    border-radius: 8px;
+}
+
+.pay-2 {
+    width: 220px;
+    height: 45px;
+    transform: translate(-85%, 180%);
+    font-weight: bold;
+    color: white;
+    background-color: #583167;
+    border-radius: 8px;
+}
+
+.total {
+    color: white;
+    transform: translate(5%, 624%);
+}
+
+.total-precio {
+    color: white;
+    transform: translate(74%, 474%);
+}
+
+.subtitle-7 {
+    color: white;
+    transform: translate(5%, 394%);
+}
 
 .dibujo {
-    width: 300px%;
+    width: 500px;
     height: 300px;
+    transform: translate(9%, 40%);
+
 }
