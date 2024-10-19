@@ -3,4 +3,4 @@ Este es un proyecto de ejemplo de una suscrpción de pago con las tecnologías H
 
 **Foto del proyecto real**
 
-
+![Foto del proyecto] (img/Captura de pantalla 2024-10-18 202410.png)
