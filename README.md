@@ -1,2 +1,2 @@
 # Pago-De-Suscripcion
-Pago De Suscripcion Responsiva Con HTML Y CSS
+Pago De Suscripcion Con HTML Y CSS
