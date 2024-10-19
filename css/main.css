@@ -1,8 +1,10 @@
+/* Estilos del body */
 body {
     margin: 0;
     padding: 0;
 }
 
+/* Estilos del formulario completo */
 .form {
     width: 1200px;
     height: 900px;
@@ -12,6 +14,7 @@ body {
     border-radius: 30px;
 }
 
+/* Estilos del contenedor de formulario + El formulario 1 y formulario 2 */
 .form-content, .form-1, .form-2{
     width: 1200px;
     height: 900px;
@@ -20,6 +23,7 @@ body {
     gap: 24rem;
 }
 
+/* Estilos de formulario 1 con el contenedor del formulario 1 */
 .form-1, .form-1-content{
     width: 600px;
 }
@@ -129,6 +133,7 @@ body {
     color: white;
 }
 
+/* Estilos de formulario 2 con el contenedor del formulario 2 */
 .form-2, .form-2-content {
     width: 590px;
     height: 860px;
@@ -173,17 +178,16 @@ body {
 
 .total-precio {
     color: white;
-    transform: translate(74%, 474%);
+    transform: translate(60%, 474%);
 }
 
 .subtitle-7 {
     color: white;
-    transform: translate(5%, 394%);
+    transform: translate(3%, 394%);
 }
 
 .dibujo {
-    width: 500px;
+    width: 400px;
     height: 300px;
-    transform: translate(9%, 40%);
-
+    transform: translate(10%, 40%);
 }
